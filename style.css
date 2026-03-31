@@ -8,8 +8,12 @@
 
     .size{
         font-size: 40px;
+<<<<<<< HEAD
         text-align: center;
+=======
+>>>>>>> 7954d86 (Updated CSS styling)
         font-weight: 600; 
+        text-align: center;
     }
 
   
@@ -49,7 +53,8 @@
     .reset-btn:hover{
         background-color: transparent;
         color: white;
-        cursor:grab;
+        cursor:pointer;
+        transform: scale(1.1);
         border: 2px solid white;
         }
     .btn:hover{
