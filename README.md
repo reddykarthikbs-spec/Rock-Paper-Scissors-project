@@ -28,7 +28,7 @@ This project is an interactive Rock-Paper-Scissors web application developed usi
 
 ## ▶️ How to Run
 1. Download or clone the repository  
-2. Open Rock-Paper-Scissors.html in your browser  
+2. Open index.html in your browser  
 
 
 ## 👨‍💻 Author
